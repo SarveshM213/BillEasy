@@ -24,7 +24,7 @@ BillEasy is a simple Java-based restaurant management application designed for w
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/TECHGAMERHT/RestoPay.git
+   git clone https://github.com/SarveshM213/RestoPay.git
 2. **Navigate to the project directory**:
    ```bash
    cd BillEasy
@@ -69,5 +69,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any questions or feedback, feel free to reach out:
 
 - **Email**: malandkar.sarvesh1@gmail.com
-- **GitHub**: [TECHGAMERHT](https://github.com/TECHGAMERHT)
+- **GitHub**: [SarveshM213](https://github.com/SarveshM213)
 ```
